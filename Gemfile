@@ -10,6 +10,7 @@ gem 'bootstrap-sass', '3.3.1'
 gem 'sprockets', '3.7.2'
 gem 'devise', '4.4.3'
 gem 'jquery-rails'
+gem 'faker', '1.8.7'
 
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3'
