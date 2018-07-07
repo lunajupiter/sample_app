@@ -11,6 +11,8 @@ gem 'sprockets', '3.7.2'
 gem 'devise', '4.4.3'
 gem 'jquery-rails'
 gem 'faker', '1.8.7'
+gem 'will_paginate', '3.1.6'
+gem 'will_paginate-bootstrap', '1.0.1'
 
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3'
